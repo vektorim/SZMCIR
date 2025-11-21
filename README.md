@@ -22,4 +22,5 @@
 默认为0.45km/元，最低票价4元，0.59km/元，最低票价为5元。
 不出意外的话，这应该是世界上第一个深铁城际的程序吧
 
-程序现已放入“规划图集”文件夹，下载链接为：https://pan.baidu.com/s/5T7KqA179YaCWPdXgwCIHfQ
+程序现已放入“规划图集”文件夹，下载链接：https://pan.baidu.com/s/5T7KqA179YaCWPdXgwCIHfQ
+备用链接：https://wwsi.lanzouq.com/iKhNg3bqmeah 密码:96d2
